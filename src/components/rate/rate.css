@@ -1,0 +1,15 @@
+.submitForm {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+}
+
+.submitButton {
+    width: 100px;
+}
+
+.buttonSection {
+    display: flex;
+    gap: 10px;
+}
